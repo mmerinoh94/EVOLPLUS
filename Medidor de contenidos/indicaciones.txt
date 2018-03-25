@@ -1,0 +1,1 @@
+El programa salida.py necesita de Fedora 26, instalé tesseract-ocr y también el imagemagic.
